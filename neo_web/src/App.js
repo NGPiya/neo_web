@@ -15,7 +15,7 @@ function App() {
       </div>
       
       <div className="flex justify-center">
-      <form method="get" action="./neogeum-1.1.jar">
+      <form method="get" action="./Neogeum-1.1.jar">
           <button type="submit" className="font-bold text text-blue-700 text-5xl mt-8 mb-28 hover:text-cyan-400">Télécharger</button>
         </form>
       </div>
