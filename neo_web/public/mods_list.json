@@ -1,10 +1,10 @@
 {
     "mods": [
         {
-        "name": "Neogeum-1.1.jar",
-        "downloadURL": "https://ngpiya.github.io/neo_web/Neogeum-1.1.jar",
-        "sha1": "7dad935110d42db9fd12988834cfc51a61f32273",
-        "size": 678186
+        "name": "neogeum-1.1.jar",
+        "downloadURL": "https://ngpiya.github.io/neo_web/neogeum-1.1.jar",
+        "sha1": "9c11ca74584ec694a4db90977428bfca633dd1da",
+        "size": 669279
         }
     ]
 }
