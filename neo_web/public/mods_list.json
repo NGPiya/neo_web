@@ -5,6 +5,12 @@
         "downloadURL": "https://ngpiya.github.io/neo_web/neogeum-1.0.0.jar",
         "sha1": "7c55f04355537143f1bed105159d854abbb927e4",
         "size": 1457155
-        }
+        },
+        {
+            "name": "fabric-api-0.102.0+1.21.jar",
+            "downloadURL": "https://ngpiya.github.io/neo_web/fabric-api-0.102.0+1.21.jar",
+            "sha1": "43035a1c6f506285a9910bc8038d1b1b925f8dd1",
+            "size": 2285859
+            }
     ]
 }
