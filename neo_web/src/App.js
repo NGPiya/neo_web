@@ -9,7 +9,7 @@ function App() {
 
       <div className="flex justify-center">
         <h1 className="font-bold text text-blue-700 text-5xl mt-8 mb-28">
-          Le site est en construction
+          Le site va être refait ailleurs
         </h1>
         
       </div>
